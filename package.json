@@ -1,0 +1,14 @@
+{
+  "name": "goit-js-hw-11-color-switch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kolomiiets Yevhenii",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "2.0.5"
+  }
+}
